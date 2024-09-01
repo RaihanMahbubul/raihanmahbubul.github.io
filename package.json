@@ -1,6 +1,7 @@
 {
   "homepage": "https://raihanmahbubul.github.io",
   "name": "raihanmahbubul",
+  "displayName": "Raihan Mahbubul",
   "version": "1.0",
   "private": true,
   "dependencies": {
